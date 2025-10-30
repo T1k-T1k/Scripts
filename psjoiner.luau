@@ -1,4 +1,4 @@
--- ps joiner for roblox STATE: 19.10.2025 :: Works
+-- ps joiner for roblox STATE: 30.10.2025 :: Patched 💔
 local md5 = {}
 local hmac = {}
 local base64 = {}
